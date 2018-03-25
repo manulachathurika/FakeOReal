@@ -1,0 +1,5 @@
+D:\2mrw\Fake-O-Real\bin\Release\ServicesModule.dll
+D:\2mrw\Fake-O-Real\bin\Release\ServicesModule.pdb
+D:\2mrw\Fake-O-Real\ServicesModule\ServicesModule\obj\Release\ResolveAssemblyReference.cache
+D:\2mrw\Fake-O-Real\ServicesModule\ServicesModule\obj\Release\ServicesModule.dll
+D:\2mrw\Fake-O-Real\ServicesModule\ServicesModule\obj\Release\ServicesModule.pdb

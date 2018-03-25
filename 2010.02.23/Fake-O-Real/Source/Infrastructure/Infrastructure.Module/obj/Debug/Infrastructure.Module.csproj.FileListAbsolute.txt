@@ -1,0 +1,5 @@
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Infrastructure.Module.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Infrastructure.Module.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Module\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Module\obj\Debug\Infrastructure.Module.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Module\obj\Debug\Infrastructure.Module.pdb

@@ -1,0 +1,10 @@
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Infrastructure.Interface.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Infrastructure.Interface.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Microsoft.Practices.CompositeUI.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Microsoft.Practices.CompositeUI.WinForms.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\obj\Debug\Infrastructure.Interface.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Interface\obj\Debug\Infrastructure.Interface.pdb

@@ -1,0 +1,13 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>D:\2mrw\Deploy\|ftp://ucscresource.comoj.com/public_html/|ftp://ucscresource.comoj.com/public_html/Fake-o-Real/|ftp://ucscresource.comoj.com/public/|ftp://ucscresource.comoj.com/</PublishUrlHistory>
+    <InstallUrlHistory>http://www.ucscresource.comoj.com/public_html/|http://www.ucscresource.comoj.com/public_html/Fake-o-Real/|http://www.ucscresource.comoj.com/public_html/Fake-O-Real/</InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>http:\\www.ucscresource.comoj.com/public_html/Fake-O-Real/</UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>

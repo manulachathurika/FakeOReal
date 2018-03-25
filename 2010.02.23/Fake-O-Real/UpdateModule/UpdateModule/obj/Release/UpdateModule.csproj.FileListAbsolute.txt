@@ -1,0 +1,21 @@
+D:\2mrw\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\ResolveAssemblyReference.cache
+D:\2mrw\Fake-O-Real\bin\Release\UpdateModule.dll
+D:\2mrw\Fake-O-Real\bin\Release\UpdateModule.pdb
+D:\2mrw\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.dll
+D:\2mrw\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.pdb
+D:\2mrw\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\FakeOReal.UpdateModule.Updates.resources
+D:\2mrw\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.csproj.GenerateResource.Cache
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\bin\Release\UpdateModule.dll
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\bin\Release\UpdateModule.pdb
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\FakeOReal.UpdateModule.Updates.resources
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.csproj.GenerateResource.Cache
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.dll
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.pdb
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\bin\Release\UpdateModule.dll
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\bin\Release\UpdateModule.pdb
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\FakeOReal.UpdateModule.Updates.resources
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.csproj.GenerateResource.Cache
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.dll
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\UpdateModule\UpdateModule\obj\Release\UpdateModule.pdb

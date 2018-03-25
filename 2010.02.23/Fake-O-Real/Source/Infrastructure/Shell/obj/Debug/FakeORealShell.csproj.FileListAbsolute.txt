@@ -1,0 +1,9 @@
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\ProfileCatalog.xml
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Shell.exe.config
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Shell.exe
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Shell.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Shell\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Shell\obj\Debug\FakeOReal.Infrastructure.Shell.ShellForm.resources
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Shell\obj\Debug\FakeORealShell.csproj.GenerateResource.Cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Shell\obj\Debug\Shell.exe
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Shell\obj\Debug\Shell.pdb

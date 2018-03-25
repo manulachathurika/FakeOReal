@@ -1,0 +1,8 @@
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\FakeOReal.Infrastructure.Layout.ShellLayoutView.resources
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\Infrastructure.Layout.csproj.GenerateResource.Cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Infrastructure.Layout.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\Infrastructure.Layout.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\Infrastructure.Layout.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\Infrastructure.Layout.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\Source\Infrastructure\Infrastructure.Layout\obj\Debug\FakeOReal.Infrastructure.Layout.Properties.Resources.resources

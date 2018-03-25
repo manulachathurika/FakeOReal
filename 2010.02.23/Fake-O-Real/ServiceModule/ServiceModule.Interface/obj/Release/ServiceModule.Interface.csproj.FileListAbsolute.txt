@@ -1,0 +1,15 @@
+D:\2mrw\Fake-O-Real\bin\Release\ServiceModule.Interface.dll
+D:\2mrw\Fake-O-Real\bin\Release\ServiceModule.Interface.pdb
+D:\2mrw\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ResolveAssemblyReference.cache
+D:\2mrw\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.dll
+D:\2mrw\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.pdb
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\bin\Release\ServiceModule.Interface.dll
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\bin\Release\ServiceModule.Interface.pdb
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.dll
+C:\Documents and Settings\G26\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.pdb
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\bin\Release\ServiceModule.Interface.dll
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\bin\Release\ServiceModule.Interface.pdb
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.dll
+C:\Documents and Settings\Manula Thantriwatte\Desktop\10.02.15\Fake-O-Real\ServiceModule\ServiceModule.Interface\obj\Release\ServiceModule.Interface.pdb

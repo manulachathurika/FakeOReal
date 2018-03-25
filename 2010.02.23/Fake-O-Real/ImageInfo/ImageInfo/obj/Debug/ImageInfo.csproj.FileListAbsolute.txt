@@ -1,0 +1,5 @@
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\ImageInfo.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\bin\Debug\ImageInfo.pdb
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\ImageInfo\ImageInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\ImageInfo\ImageInfo\obj\Debug\ImageInfo.dll
+C:\Users\Harshan\Documents\Visual Studio 2008\Projects\Fake-O-Real\ImageInfo\ImageInfo\obj\Debug\ImageInfo.pdb
